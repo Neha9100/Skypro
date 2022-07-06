@@ -1,0 +1,27 @@
+#circle{
+    font-size: 20px;
+}
+
+.square{
+    text-decoration-color: white;
+    background: linear-gradient(to left,red,red);
+    box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4);
+  width: 100px;
+  height: 40px;
+  box-sizing: border-box;
+    
+}
+.container{
+    background: aquamarine;
+}
+
+.n {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.contact
+{
+    font-size: 20px;
+}
